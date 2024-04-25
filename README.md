@@ -1,5 +1,4 @@
-## You can take a look at CSS challenges from Scrimba website course
-| ** Click to preview! ** |
-|--|
-|[Colorful button](https://ricardotaipe.github.io/css-challenges-scrimba/colorful-button/)  | 
-
+## Dive into exciting CSS challenges on Scrimba's website course!
+| 💻 Code|🔽 ***Click to preview***|
+|--|--|
+|[Colorful button](/colorful-button/)| [![](/assets/challenge1.png)](https://ricardotaipe.github.io/css-challenges-scrimba/colorful-button/) |
